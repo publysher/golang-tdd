@@ -13,5 +13,5 @@ func main() {
 }
 
 func GenerateQRCode(code string) []byte {
-	return nil
+	return []byte{0xFF}
 }
