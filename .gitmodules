@@ -1,0 +1,6 @@
+[submodule "src/github.com/publysher/qrcoded"]
+	path = src/github.com/publysher/qrcoded
+	url = git@github.com:publysher/qrcoded.git
+[submodule "src/github.com/publysher/qrcode"]
+	path = src/github.com/publysher/qrcode
+	url = git@github.com:publysher/qrcode.git
