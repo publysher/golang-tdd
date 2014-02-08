@@ -1,7 +1,7 @@
 Test-driven development in Go
 =============================
 
-This repository contains the entire source code for the book [Test-driven development in Go](https://leanpub.com/golang-tdd/preview). 
+This repository contains the entire source code for the book [Test-driven development in Go](https://leanpub.com/golang-tdd/). 
 
 Getting your own copy
 ---------------------
